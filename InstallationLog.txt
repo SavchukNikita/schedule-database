@@ -195,3 +195,29 @@
 [5015] addDownloadable "HtmlExport.7z"
 [5015] addDownloadable "sqlitestudio.7z"
 [5015] addDownloadable "qt.7z"
+************************************* Invoked: Thu Jan 28 22:17:37 2021
+[0] Operations sanity check succeeded.
+[2573] addDownloadable "CsvExport.7z"
+[2573] addDownloadable "HtmlExport.7z"
+[2573] addDownloadable "SqlExport.7z"
+[2573] addDownloadable "qt.7z"
+[2573] addDownloadable "JsonExport.7z"
+[2573] addDownloadable "MultiEditorImage.7z"
+[2573] addDownloadable "PdfExport.7z"
+[2573] addDownloadable "ScriptingTcl.7z"
+[2573] addDownloadable "DbAndroid.7z"
+[2573] addDownloadable "XmlExport.7z"
+[2573] addDownloadable "SqlFormatterSimple.7z"
+[2573] addDownloadable "DbSqliteCipher.7z"
+[2573] addDownloadable "DbSqliteSystemData.7z"
+[2573] addDownloadable "ConfigMigration.7z"
+[2573] addDownloadable "RegExpImport.7z"
+[2573] addDownloadable "DbSqliteWx.7z"
+[2573] addDownloadable "SqlEnterpriseFormatter.7z"
+[2573] addDownloadable "sqlitestudio.7z"
+[2573] addDownloadable "Printing.7z"
+[2573] addDownloadable "DbSqlite2.7z"
+[2573] addDownloadable "CsvImport.7z"
+************************************* Invoked: Fri Jan 29 19:39:07 2021
+[0] Operations sanity check succeeded.
+[292] Cannot retrieve remote tree Updates.xml contains invalid content: Root element html unexpected, should be \"Updates\"..
